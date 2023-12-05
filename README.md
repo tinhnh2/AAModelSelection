@@ -3,7 +3,7 @@ The amino acid substitution model describing the substation rates among amino ac
 
 Some steps to use:
 - Step 1: download the source code and datasets by command:\
-  git clone
+  git clone https://github.com/tinhnh2/AAModelSelection.git
 - Step 2: run script to extract information using pairwise script or triplet script.\
   python triplet_extraction.py folder label\
   folder: the path to alignments\
